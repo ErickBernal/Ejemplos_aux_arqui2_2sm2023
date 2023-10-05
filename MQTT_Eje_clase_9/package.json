@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonschema": "^1.2.6",
+    "mosca": "^2.8.3",
+    "mqtt": "^5.0.5",
+    "mysql": "^2.18.1",
+    "serialport": "^12.0.0"
+  }
+}

@@ -1,0 +1,11 @@
+https://www.youtube.com/watch?v=7n4hee04FcI&ab_channel=Roboticoss
+
+
+*files->preferencias->additional_boards_manager_URLs.
+agregar:
+	https://arduino.esp8266.com/stable/package_esp8266com_index.json
+	https://dl.espressif.com/dl/package_esp32_index.json
+#buscamos la tarjeta / Agregar tarjeta esp8266 a arduino ide
+* tools->board->boardManager
+	#seleccionamos "esp6299"
+
